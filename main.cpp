@@ -18,3 +18,8 @@ int main(int argc, char* argv[])
 
     return 0;
 }
+
+void yushinFunc()
+{
+    cout << "This is yushin." << endl;
+}
